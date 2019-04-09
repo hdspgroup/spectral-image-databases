@@ -31,8 +31,8 @@ The emulation of the CCA using the DMD and the set of optical filters is as foll
 Two target scenes were used to evaluate the quality of image reconstruction of the adaptive C-CASSI against non-adaptive C-CASSI. The above figure depicts the two targets. In this setup, the 3D block-unblock representation of CCA is loaded in the DMD, and each 2D slice is paired with the corresponding color filter placed in the filter wheel. Afterwards, the measurements is obtained by adding the 2D measurements. The experimental setup is synchronized, such that the DMD sets the pattern and the sensor captures the projection. After that, the DMD updates the coded aperture, and the filter wheel rotates. Subsequently, the detector measures the next projection. The first target is the bear-stars scene (left), and the second target is the flower-stars scene (right). The spatial resolution of the target scenes is 128 &#10005; 128. In the characterization of the Amici prism, L=11 spectral bands are resolved. The corresponding wavelength intervals are: 423 - 436; 437 - 448; 449 - 463; 464 - 479; 480 - 499; 500 - 521; 522 - 546; 547 - 577; 578 - 618; 619 - 673; 674 - 700 nanometers.
 
 This two real scenes can be downloaded from this repository in the following links:
-* Bear-stars scene: 
-* Flower-stars scene: 
+* [Bear-stars scene](https://github.com/hdspgroup/spectral-image-databases/raw/master/data/OSO_FULL.mat)
+* [Flower-stars scene](https://github.com/hdspgroup/spectral-image-databases/raw/master/data/fullFlor.mat)
 
 ### How to Cite
 If you use any of the multispectral scenes showed above, or if the presented experimental assembly was useful for your research, please cite at least one of the following research works:
