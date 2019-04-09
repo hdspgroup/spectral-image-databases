@@ -4,7 +4,7 @@
 
 The C-CASSI was assembled in the High Dimensional Signal Processing Group optics laboratory, at the Universidad Industrial de Santander in Bucaramanga, Colombia. More information about the databases and the experimental setup can be found in the paper [1].
 
->[1] N. Diaz, H. Rueda, H. Arguello, ***Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging***, Appl. Opt. 57 (17) (2018) 4890–4900. doi:10.1364/AO.57.004890. URL http://ao.osa.org/abstract.cfm?URI=ao-57-17-4890
+>[1] N. Diaz, H. Rueda, H. Arguello, ***Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging***, Appl. Opt. 57 (17) (2018) 4890–4900. [doi:10.1364/AO.57.004890.](http://ao.osa.org/abstract.cfm?URI=ao-57-17-4890)
 
 
 ### Experimental Setup
