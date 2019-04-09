@@ -1,4 +1,4 @@
-# Hyperspectral and Multispectral images acquired in the HDSP optics Laboratory
+# Hyperspectral and Multispectral images acquired in the HDSP Optics Laboratory
 
 ## Databases acquired with the color coded aperture snapshot spectral imager (C-CASSI) architecture
 
