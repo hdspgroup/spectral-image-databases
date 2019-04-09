@@ -4,7 +4,7 @@
 
 The C-CASSI was assembled in the High Dimensional Signal Processing Group optics laboratory, at the Universidad Industrial de Santander in Bucaramanga, Colombia. More information about the databases and the experimental setup can be found in the paper [1].
 
->[1] N. Diaz, H. Rueda, H. Arguello, "Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging", Appl. Opt. 57 (17) (2018) 4890–4900. doi:10.1364/AO.57.004890. URL http://ao.osa.org/abstract.cfm?URI=ao-57-17-4890
+>[1] N. Diaz, H. Rueda, H. Arguello, ***Adaptive filter design via a gradient thresholding algorithm for compressive spectral imaging***, Appl. Opt. 57 (17) (2018) 4890–4900. doi:10.1364/AO.57.004890. URL http://ao.osa.org/abstract.cfm?URI=ao-57-17-4890
 
 
 ### Experimental Setup
@@ -21,7 +21,7 @@ The C-CASSI was assembled, in accordance with [2], using a DMD-based implementat
 
 The emulation of the CCA using the DMD and the set of optical filters is as follows: each CCA is mapped to a 3D array of block-unblock coded apertures paired with the corresponding set of optical filters, as described in [2], thus emulating the colored coded aperture. Each pair of filter and block-unblock coded aperture is calibrated to characterize the impulse response of the system, which uses as input a monochromatic light, and a white plate as the target. The compressive measurements are obtained using as a target the real scene instead of the white plate and replacing the monochromatic light with a broadband white light. If each band is set to be encoded independently, a single shot acquisition with L bands will require L switches in the DMD, and L rotations of the filter wheel. Experimentally, the DMD switching time is &#8764; 50 &#181;s and the rotation time of the filter wheel is &#8764; 50 ms, being the latter the bottleneck. Therefore, the largest integration time for a single shot is bounded by 50 Lms.
 
->[2] H. Rueda, H. Arguello, and G. R. Arce, "DMD-based implementation of patterned optical filter arrays for compressive spectral imaging", J. Opt. Soc. Am. A 32, 80–89 (2015).
+>[2] H. Rueda, H. Arguello, and G. R. Arce, ***DMD-based implementation of patterned optical filter arrays for compressive spectral imaging***, J. Opt. Soc. Am. A 32, 80–89 (2015).
 
 
 ### Real Multispectral Scenes
